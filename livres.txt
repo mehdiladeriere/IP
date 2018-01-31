@@ -1,0 +1,117 @@
+﻿Le grand Maulnes,roman,1910,Fournier
+Aurélien,roman,1944,Aragon
+Le crève-coeur,poèmes,1941,Aragon
+Les yeux d'Elsa,poèmes,1942,Aragon
+Le paysan de Paris,essai,1926,Aragon
+Le père Goriot,roman,1835,Balzac
+Les chouans,roman,1829,Balzac
+La comédie humaine,roman,1842,Balzac
+Le colonel Chabert,roman,1835,Balzac
+L'albatros,poèmes,1861,Baudelaire
+Les fleurs du mal,poèmes,1861,Baudelaire
+Le farfalo,nouvelle,1847,Baudelaire
+Le barbier de Séville,comédie,1775,Beaumarchais
+Le mariage de Figaro,comédie,1785,Beaumarchais
+La mère coupable,drame,1792,Beaumarchais
+Le deuxième sexe,essai,1949,Beauvoir
+La force des choses,roman,1963,Beauvoir
+Mémoires d'une jeune fille rangée,roman,1958,Beauvoir
+Caligula,pièce,1944,Camus
+La chute,roman,1956,Camus
+L'étranger,roman,1942,Camus
+La peste,roman,1947,Camus
+Le mythe de Sisyphe,essai,1942,Camus
+L'annonce faite à Marie,drame,1911,Claudel
+Le soulier de satin,drame,1929,Claudel
+L'échange,pièce,1901,Claudel
+Le blé en herbe,roman,1923,Colette
+La chatte,roman,1933,Colette
+Gigi,roman,1944,Colette
+Sido,roman,1930,Colette
+Andromède,tragédie,1651,Corneille
+Le Cid,tragédie,1637,Corneille
+Cinna,tragédie,1643,Corneille
+Horace,tragédie,1640,Corneille
+Les lettres de mon moulin,nouvelles,1869,Daudet
+Tartarin de Tarascon,roman,1872,Daudet
+Le neveu de Rameau,conte,1805,Diderot
+Jacques le fataliste,roman,1796,Diderot
+La religieuse,conte,1798,Diderot
+Le comte de Monte-Cristo,roman,1844,Dumas
+La reine Margot,roman,1845,Dumas
+Les trois mousquetaire,roman,1844,Dumas
+Vingt ans après,roman,1845,Dumas
+L'amant,roman,1984,Duras
+L'amour,roman,1971,Duras
+Détruire dit-elle,roman,1969,Duras
+Hiroshima mon amour,roman,1959,Duras
+Moderato Cantabile,roman,1958,Duras
+Le temps déborde,poèmes,1947,Eluard
+Doubles d'Ombre,poèmes,1945,Eluard
+La vie Immédiate,poèmes,1932,Eluard
+Bouvard etPecuchet,roman,1881,Flaubert
+L'éducation sentimentale,roman,1845,Flaubert
+Madame Bovary,roman,1856,Flaubert
+Salammbô,roman,1862,Flaubert
+Electre,pièce,1938,Giraudoux
+Sodome et Gomorrhe,pièce,1943,Giraudoux
+La guerre de Troie n'aura pas lieu,pièce,1935,Giraudoux
+Les nourritures terrestres,oeuvre,1897,Gide
+Le retour de l'enfant prodigue,essai,1909,Gide
+La symphonie pastorale,roman,1919,Gide
+Le hussard sur le toit,roman,1951,Giono
+Que ma joie demeure,roman,1935,Giono
+La cantatrice chauve,pièce,1954,Ionesco
+Le roi se meurt,pièce,1963,Ionesco
+La cigale et la fourmi,fable,1668,La Fontaine
+Fables,fable,1668,La Fontaine
+La condition humaine,roman,1933,Malraux
+L'espoir,roman,1937,Malraux
+Les conquérants,roman,1927,Malraux
+La voie royale,roman,1930,Malraux
+La double inconstance,comédie,1723,Marivaux
+L'île des esclaves,comédie,1725,Marivaux
+Le jeu de l'amour et du hasard,comédie,1730,Marivaux
+Le noeud de vipères,roman,1932,Mauriac
+Les mal aimés,pièce,1938,Mauriac
+Thérèse Desqueyroux,roman,1927,Mauriac
+Mémoires intérieur,essai,1959,Mauriac
+Les essais,oeuvre,1580,Montaigne
+Journal de voyage,roman,1585,Montaigne
+Lettres persanes,roman,1721,Montesquieu
+L'esprit des lois,traité,1748,Montesquieu
+Lorenzaccio,drame,1834,Musset
+Les caprices de Marianne,comédie,1833,Musset
+On ne badine pas avec l'amour,drame,1834,Musset
+La gloire de mon père,roman,1957,Pagnol
+Le château de mon père,roman,1957,Pagnol
+Topaze,comédie,1928,Pagnol
+Pensées,oeuvre,1657,Pascal
+Les provinciales,lettres,1657,Pascal
+Un amour de Swann,roman,1913,Proust
+A la recherche du temps perdu,roman,1913,Proust
+Pantagruel,roman,1532,Rabelais
+Gargantua,roman,1534,Rabelais
+La mare au diable,roman,1846,Sand
+La petite Fadette,roman,1849,Sand
+Metella,nouvelle,1833,Sand
+Huis clos,pièce,1943,Sartre
+Les mains sales,pièce,1948,Sartre
+Les mots,roman,1963,Sartre
+L'être et le néant,essai,1953,Sartre
+La nausée,roman,1938,Sartre
+Les mouches,drame,1943,Sartre
+la chartreuse de Parme,roman,1839,Stendhal
+Armance,roman,1827,Stendhal
+Le rouge et le noir,roman,1830,Stendhal
+Lais,poèmes,1489,Villon
+Testament,poèmes,1489,Villon
+Candide,conte,1759,Voltaire
+L'ingénu,conte,1767,Voltaire
+Sémiramis,tragédie,1746,Voltaire
+Lettres philosophiques,traité,1733,Voltaire
+Rome sauvé,tragédie,1752,Voltaire
+La bête humaine,roman,1890,Zola
+Germinal,roman,1885,Zola
+Nana,roman,1880,Zola
+Les Rougon-Macquart,roman,1870,Zola
